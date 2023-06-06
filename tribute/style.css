@@ -1,0 +1,44 @@
+.parentDiv,
+.heading,
+.tribute {
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+    padding: 2rem;
+
+}
+
+.parentDiv {
+    height: 100vh;
+}
+
+.heading {
+    
+    text-align: center;
+
+}
+
+.tribute {
+    margin: 4rem;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(https://w0.peakpx.com/wallpaper/672/848/HD-wallpaper-white-crumpled-paper-macro-white-paper-texture-white-paper-vintage-texture-crumpled-paper-paper-textures.jpg);
+    border:  5px dashed black;
+}
+
+
+
+#name {
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.tribute img{
+    margin: -4rem;
+     height: 40vh;
+     width:20vw;
+}
+
+body footer{
+    border: 1px solid;
+}

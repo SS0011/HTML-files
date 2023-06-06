@@ -1,0 +1,22 @@
+.red{
+    background-color: aquamarine;
+ }
+#para{
+        color: darkcyan;
+}
+#para2{
+    color:rgb(34, 115, 221)
+}
+
+#para3{
+
+}
+#para , #para2 ,#para3{
+    font-size: 30px;
+}
+
+.black{
+    background-color: rgb(43, 12, 94);
+}
+
+
